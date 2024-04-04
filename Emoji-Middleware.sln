@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Emoji-Middleware", "Emoji-Middleware\Emoji-Middleware.csproj", "{3327B82C-30C4-425A-8640-A3D433F0454E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3327B82C-30C4-425A-8640-A3D433F0454E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3327B82C-30C4-425A-8640-A3D433F0454E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3327B82C-30C4-425A-8640-A3D433F0454E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3327B82C-30C4-425A-8640-A3D433F0454E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C8415F3D-80B7-4B28-882F-791C269559CF}
+	EndGlobalSection
+EndGlobal
